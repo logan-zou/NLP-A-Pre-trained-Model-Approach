@@ -4,5 +4,5 @@
   python=3.7；<br>
   cuda=11.3；<br>
   pytorch=1.12.1<br>
-  具体环境配置见文件：requirements.txt
+  具体环境配置见文件：env_requirements.txt
   
